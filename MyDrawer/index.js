@@ -89,7 +89,7 @@ function Menu(props){
           <View style={s.userContainer}>
             <Image style={s.userImagen} source={require('./husky.png')}/> 
             <View>
-                <Image style={s.camaraIcon} source={require('./asd.png')}/>
+                <Image style={s.camaraIcon} source={require('./camara.png')}/>
             </View>
           </View>
           <View style={s.userNombre}>
