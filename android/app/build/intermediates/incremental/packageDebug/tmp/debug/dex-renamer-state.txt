@@ -1,0 +1,4 @@
+#Wed Mar 03 14:11:13 BOT 2021
+base.0=/home/asus/prueba/AwesomeProject/practica 3 aux/android/app/build/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
